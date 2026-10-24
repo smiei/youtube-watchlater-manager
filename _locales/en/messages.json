@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Watch Later & Playlist Manager for YouTube",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Powerful filter, sort, auto-load, and bulk-management bar for YouTube Watch Later (WL), Liked Videos (LL), and playlists.",
+    "description": "Extension description"
+  }
+}
+

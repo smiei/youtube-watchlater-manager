@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e2530"/>
+      <stop offset="100%" stop-color="#0f1319"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3ea6ff"/>
+      <stop offset="100%" stop-color="#1a73e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)" stroke="#3ea6ff" stroke-width="3" stroke-opacity="0.35"/>
+  <!-- Playlist lines -->
+  <rect x="24" y="32" width="48" height="8" rx="4" fill="#f1f1f1"/>
+  <rect x="24" y="52" width="48" height="8" rx="4" fill="#f1f1f1" opacity="0.8"/>
+  <rect x="24" y="72" width="34" height="8" rx="4" fill="#f1f1f1" opacity="0.6"/>
+  <!-- Filter funnel badge -->
+  <circle cx="88" cy="76" r="24" fill="url(#accent)"/>
+  <path d="M77 68h22l-8.5 10.5v9.5l-5-2.5v-7L77 68z" fill="#0f1319"/>
+</svg>

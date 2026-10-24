@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Watch Later & Playlist Manager for YouTube (Später ansehen)",
+    "description": "Extension name (German search discoverability for 'Später ansehen')"
+  },
+  "extDescription": {
+    "message": "Filter, sort, auto-load, and bulk-manage YouTube Watch Later (Später ansehen), Liked Videos (Videos, die ich mag), and playlists.",
+    "description": "Extension description (includes German search keywords)"
+  }
+}
+

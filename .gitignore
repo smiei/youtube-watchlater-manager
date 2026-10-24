@@ -1,0 +1,12 @@
+# Playwright & test artifacts
+.playwright-mcp/
+node_modules/
+
+# Build output
+dist/
+*.xpi
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
